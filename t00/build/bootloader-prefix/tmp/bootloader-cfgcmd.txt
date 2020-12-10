@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/bril/esp/connect/t00/sdkconfig;-DIDF_PATH=/home/bril/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=/home/bril/.espressif/python_env/idf4.3_py3.8_env/bin/python;-DEXTRA_COMPONENT_DIRS=/home/bril/esp/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

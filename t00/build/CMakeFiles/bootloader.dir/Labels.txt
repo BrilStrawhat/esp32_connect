@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/bril/esp/connect/t00/build/CMakeFiles/bootloader
+/home/bril/esp/connect/t00/build/CMakeFiles/bootloader.rule
+/home/bril/esp/connect/t00/build/CMakeFiles/bootloader-complete.rule
+/home/bril/esp/connect/t00/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/bril/esp/connect/t00/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/bril/esp/connect/t00/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/bril/esp/connect/t00/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/bril/esp/connect/t00/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/bril/esp/connect/t00/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/bril/esp/connect/t00/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
